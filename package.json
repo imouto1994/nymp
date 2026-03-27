@@ -1,0 +1,7 @@
+{
+  "name": "nymp",
+  "dependencies": {
+    "encoding-japanese": "^2.2.0",
+    "glob": "^13.0.6"
+  }
+}
